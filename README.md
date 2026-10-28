@@ -40,8 +40,8 @@ Champions and At Risk - High Value together are about 32% of customers but bring
 4. Reward Champions; avoid spending marketing budget on Lost - Low Value customers.
 
 ## Dashboard
-![Sales Overview](dashboard_page1.png)
-![Delivery and Customer Insights](dashboard_page2.png)
+![Sales Overview](Sales%20Overview.png)
+![Delivery and Customer Insights](Delivery%20and%20Customer%20Insights.png)
 
 ## Files
 - `sql/`: setup, cleaning, analysis, RFM and dashboard table queries
